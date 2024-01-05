@@ -1,4 +1,0 @@
-repository "Word Runner@sezgin1444@cloud"
-  path "/"
-    br "/main"
-    co "/main"
